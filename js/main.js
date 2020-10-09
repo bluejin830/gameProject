@@ -42,7 +42,7 @@ onload = function(){
     }
     
     function getWords(){
-        words=['Hello', 'Banana', 'Apple', 'Cherry'];
+        words=['Hello', 'Banana', 'Apple', 'Cherry', 'student', 'mango', 'love', 'chicken', 'drink', 'yougurt', 'bread', 'clock', 'glasses', 'watermelon', 'bowl', 'honey', 'nut', 'autumn', 'aurora', 'solar', 'eclipse', 'dolphins', 'requirement', 'resident', 'permanent', 'prerequisite', 'controversy', 'discriminatory', 'proficiency', 'burden', 'expert', 'spectacular', 'photogenic', 'vibrant', 'conducive', 'foliage', 'adverse', 'prevalent', 'harbinger'];
         buttonChange('Game starts')
     }
     
